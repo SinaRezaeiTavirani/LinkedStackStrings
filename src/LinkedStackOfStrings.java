@@ -20,4 +20,10 @@ public class LinkedStackOfStrings {
         return item;
     }
 
+    public class FixedCapacityStackOfStrings{
+        private String[]s;
+    }
+
+
 }
+
